@@ -7,7 +7,7 @@ buildscript {
         mavenCentral()  // Maven Central repository
 
     }
-    ext.hilt_version = '2.46'
+    ext.hilt_version = '2.45'
     dependencies {
         // Add the dependency for the Google services Gradle plugin
         classpath 'com.google.gms:google-services:4.3.15'
