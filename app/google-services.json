@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "160692009682",
+    "project_id": "binar-challenge-ch-7",
+    "storage_bucket": "binar-challenge-ch-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160692009682:android:444b03c129c67fd8764b0b",
+        "android_client_info": {
+          "package_name": "com.pucuk.binar_challenge_ch_7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160692009682-clcnk9i2r3l021lr56snjv0mu66kk2hl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pucuk.binar_challenge_ch_7",
+            "certificate_hash": "c81e2925fb7f4b725c24d72cfad53af3d7dc5101"
+          }
+        },
+        {
+          "client_id": "160692009682-gon8ktdh0j9jbp718dkaek5fq2s38ejg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBluAGAszEl_B2NI91NEFn62i_4HIWHZIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160692009682-gon8ktdh0j9jbp718dkaek5fq2s38ejg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
