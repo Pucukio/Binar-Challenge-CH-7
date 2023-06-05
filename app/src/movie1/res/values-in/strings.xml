@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Movie App</string>
+    <string name="loading">Memuat</string>
+    <string name="back">Kembali</string>
+    <string name="next">Selanjutnya</string>
+    <string name="logout">Keluar</string>
+    <string name="update">Perbaharui</string>
+    <string name="register">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="sign_up">Daftar </string>
+    <string name="sign_in">Masuk </string>
+    <string name="profile">Data Diri</string>
+    <string name="search">Cari</string>
+    <string name="favorite">Favorite</string>
+    <string name="hello">Halo</string>
+    <string name="home">Linimasa</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="login_here">Masuk Disini</string>
+    <string name="register_here">Daftar Disini</string>
+    <string name="have_account">Sudah Punya Akun?</string>
+    <string name="not_registered_yet">Belum Daftar?</string>
+    <string name="type_your_username">Masukkan Username Anda</string>
+    <string name="type_your_fullname">Masukkan Nama Lengkap Anda</string>
+    <string name="type_your_email">Masukkan Email</string>
+    <string name="type_your_password">Masukkan Kata Sandi</string>
+    <string name="type_your_confirmpassword">Masukkan Ulang Kata Sandi</string>
+    <string name="choose_language">Pilih Bahasa</string>
+    <string name="english">Inggris</string>
+    <string name="indonesian">Indonesia</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="date">Tanggal</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="password">Kata Sandi</string>
+    <string name="confirm_password">Konfirmasi Kata Sandi</string>
+    <string name="enter_full_name">Masukkan Nama Lengkap</string>
+    <string name="enter_full_username">Masukkan Nama Pengguna</string>
+    <string name="enter_birth_date">Masukkan Tanggal Lahir (DD/MM/YYYY)</string>
+    <string name="enter_address">Masukkan Alamat</string>
+    <string name="update_profile">Ubah Profil</string>
+    <string name="about_film">Tentang Film</string>
+    <string name="select_date">Pilih Tanggal</string>
+
+    <string-array name="month_names">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Maret</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Agustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Desember</item>
+    </string-array>
+</resources>
